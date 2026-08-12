@@ -1,0 +1,6 @@
+{
+  "name": "Esports Scoreboard",
+  "description": "Professional live esports scoreboard, team rosters, match scores, leaderboards, and tournament management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
